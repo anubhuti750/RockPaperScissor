@@ -8,7 +8,6 @@ public class Player {
     private int id;
     private Vector<MatchScore> matchScoreList = new Vector<>();
 
-
     public String getName() {
         return name;
     }
